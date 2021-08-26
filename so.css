@@ -1,0 +1,25 @@
+#head1{
+    color: coral;
+    background-color: gray;
+    text-align: center;
+}
+.para{
+    color: blue;
+    text-align: center;
+}
+.img-LetsUpgrade{
+    background: gray;
+}
+
+/* 2nd container */
+
+.p1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.p2{
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+}
